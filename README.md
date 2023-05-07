@@ -1,2 +1,1 @@
-# RepositorioHenry
-Este es el repositorio del ejercicio de la practica N°2
+Este es la modificacion atraves del comando code. 
